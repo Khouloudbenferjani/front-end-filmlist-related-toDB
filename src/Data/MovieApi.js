@@ -9,9 +9,10 @@ export const MoviesApi = [
       description:
         "Barbie is a 2023 American fantasy comedy film directed by Greta Gerwig, from a screenplay she wrote with Noah Baumbach.[8] Based on the Barbie fashion dolls by Mattel, it is the first live-action Barbie film after numerous computer-animated films and specials.",
       category: "Fantasy | Comedy",
-
       
-      __v: 0,
+           
+      
+      __v: 0, 
     },
     {
       id: "5fedefe47c0ffe00176db1cb",

@@ -24,7 +24,7 @@ function MovieList() {
                 description={movie.description}
                 imgUrl={movie.imgUrl}
                 category={movie.category}
-                video={movie.videoUrl}
+                trailer={movie.videoUrl}
               />
             </Col>
           ))}
