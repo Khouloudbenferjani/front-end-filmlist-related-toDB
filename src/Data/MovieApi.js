@@ -1,3 +1,10 @@
+// import { useEffect, useState } from "react";
+// import "./App.css";
+
+
+
+
+
 export const MoviesApi = [
     {
       id: "5fedeef47c0ffe00176db1ca",
@@ -89,3 +96,6 @@ export const MoviesApi = [
       __v: 0,
     },
   ];
+
+
+  
